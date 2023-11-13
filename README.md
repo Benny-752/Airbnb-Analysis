@@ -3,6 +3,9 @@
 Airbnb-Analysis project aims to find the pricing in a region by the place and the room-type majorly
 
 ###Steps:
+### Installation
+
+1. Clone this repository to your local machine:
 
 1.Download the csv file from kaggle - airbnb dataset NYC
 
