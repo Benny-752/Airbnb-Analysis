@@ -2,8 +2,8 @@
 
 Airbnb-Analysis project aims to find the pricing in a region by the place and the room-type majorly
 
-# PowerBi Report
-
+## PowerBi Report
+![Screenshot 1](/POWER_BI_REPORT.jpg)
 
 ### Steps:
 
